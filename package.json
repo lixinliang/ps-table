@@ -1,0 +1,23 @@
+{
+  "name": "ps-table",
+  "productName": "Photoshop Table",
+  "version": "1.0.0",
+  "description": "none.",
+  "main": "app.js",
+  "scripts": {
+      "start": "electron .",
+      "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixinliang/ps-table.git"
+  },
+  "author": {
+    "name": "lixinliang",
+    "url": "https://github.com/lixinliang"
+  },
+  "license": "MIT",
+  "config": {
+    "debug": false
+  }
+}
