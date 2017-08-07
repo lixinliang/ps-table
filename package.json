@@ -2,7 +2,7 @@
   "name": "ps-table",
   "productName": "Photoshop Table",
   "version": "1.0.0",
-  "description": "none.",
+  "description": "[🖥 MacOS] Display Photoshop shortcut on desktop.",
   "main": "app.js",
   "scripts": {
       "start": "electron .",
